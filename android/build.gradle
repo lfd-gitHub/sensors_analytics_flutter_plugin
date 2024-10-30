@@ -26,7 +26,7 @@ android {
 
     defaultConfig {
         minSdkVersion 16
-        namespace = "com.sensorsdata.analytics"
+        namespace = "com.sensorsdata.analytics.sensorsanalyticsflutterplugin"
     }
     lintOptions {
         disable 'InvalidPackage'
